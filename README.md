@@ -2,9 +2,7 @@
 
 A semantic image search engine powered by **MultiEmbedTR**, a Turkish multimodal embedding model. The project demonstrates how text and image embeddings can be brought together in a shared semantic space, enabling natural language image search in Turkish.
 
-<!-- SCREENSHOT PLACEHOLDER - Add your screenshot here -->
-![ImageSearchTR Demo](<img width="1852" height="903" alt="image" src="https://github.com/user-attachments/assets/271667d6-4ddb-4d96-9151-4005de1bde1f" />)
-<!-- Replace 'assets/demo.png' with your actual screenshot path -->
+![ImageSearchTR Demo](https://github.com/user-attachments/assets/271667d6-4ddb-4d96-9151-4005de1bde1f)
 
 ## Features
 
