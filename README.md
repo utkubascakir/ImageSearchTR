@@ -240,6 +240,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [MultiEmbedTR](https://huggingface.co/utkubascakir/MultiEmbedTR) for the embedding model
-- [ITU Perceptron](https://huggingface.co/ituperceptron) for the Turkish image captioning dataset
+- [ITU Perceptron](https://huggingface.co/datasets/ituperceptron/image-captioning-turkish) for the Turkish image captioning dataset
 - [FAISS](https://github.com/facebookresearch/faiss) for efficient similarity search
 - [Gradio](https://gradio.app/) for the web interface
