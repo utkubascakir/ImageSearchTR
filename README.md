@@ -46,7 +46,7 @@ The core idea: semantically similar text and images have similar embeddings, mak
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ImageSearchTR.git
+git clone https://github.com/utkubascakir/ImageSearchTR.git
 cd ImageSearchTR
 
 # Install dependencies
@@ -224,10 +224,10 @@ The `alpha` parameter controls the fusion:
 If you use this project, please cite the underlying model:
 
 ```bibtex
-@misc{multiembedtr2024,
+@misc{multiembedtr2025,
   author = {Utku Başçakır},
   title = {MultiEmbedTR: Turkish Multimodal Embedding Model},
-  year = {2024},
+  year = {2025},
   publisher = {HuggingFace},
   url = {https://huggingface.co/utkubascakir/MultiEmbedTR}
 }
