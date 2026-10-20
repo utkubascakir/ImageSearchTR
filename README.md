@@ -1,8 +1,8 @@
 # ImageSearchTR 🔍
 
-A semantic image search engine powered by **MultiEmbedTR**, a Turkish multimodal embedding model. The project demonstrates how text and image embeddings can be brought together in a shared semantic space, enabling natural language image search in Turkish.
+[![Model on Hugging Face](https://img.shields.io/badge/🤗%20Model-MultiEmbedTR-yellow)](https://huggingface.co/utkubascakir/MultiEmbedTR)
 
-![ImageSearchTR Demo](https://github.com/user-attachments/assets/271667d6-4ddb-4d96-9151-4005de1bde1f)
+A semantic image search engine powered by **[MultiEmbedTR](https://huggingface.co/utkubascakir/MultiEmbedTR)**, a Turkish multimodal embedding model. The project demonstrates how text and image embeddings can be brought together in a shared semantic space, enabling natural language image search in Turkish.
 
 ## Features
 
